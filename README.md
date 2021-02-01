@@ -1,6 +1,6 @@
 URL: https://youtu.be/Ml-oAiR1k_A
 
-[![Toby Dance](https://img.youtube.com/vi/Ml-oAiR1k_A/2.jpg)](https://www.youtube.com/watch?v=Ml-oAiR1k_A)
+[![Toby Dance](https://img.youtube.com/vi/Ml-oAiR1k_A/0.jpg)](https://www.youtube.com/watch?v=Ml-oAiR1k_A)
 
 three.js
 ========
